@@ -3,7 +3,10 @@ def intersection(arrays):
     YOUR CODE HERE
     """
     # Your code here
-
+    for arr in arrays:
+        if a
+    intersection = []
+    
     return result
 
 
